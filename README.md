@@ -1,5 +1,16 @@
-### Hello
+## Greetings
 My name is Spencer Gannon and I am a B.S. Computer Science major with a complementary Mathematics major.
+
+## Cool Projects I've Done 
+- **Quantum Dot Cellular Automata Simulator** - Currently this is private, but working with a physics major and the Dean of Engineering we created a quantum dot cellular automata simulator that allows us to simulate sizeable quantum circuits. It currently runs in polynomial time complexity which is better than the current industry solution that runs in exponential time complexity.
+- **Home Server** - This can't really be found on my GitHub, but recently I've turned a 2012 Apple Mac Pro 5.1 (see below)  
+
+#### My Home Server
+
+<img src="https://d2um6umu4gwssp.cloudfront.net/apple/wp-content/uploads/2018/10/mac-pro-mid-2010-main.jpg" width="400px"/>
+
+## My Knowledge
+Below is everything I know at least somewhat well or use at least somewhat regularly.
 
 ### Linux Distros I Use
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)

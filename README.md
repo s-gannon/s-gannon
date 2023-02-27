@@ -3,7 +3,7 @@ My name is Spencer Gannon and I am a B.S. Computer Science major with a compleme
 
 ## Cool Projects I've Done 
 - **Quantum Dot Cellular Automata Simulator** - Currently this is private, but working with a physics major and the Dean of Engineering we created a quantum dot cellular automata simulator that allows us to simulate sizeable quantum circuits. It currently runs in polynomial time complexity which is better than the current industry solution that runs in exponential time complexity.
-- **Home Server** - This can't really be found on my GitHub, but recently I've turned a 2012 Apple Mac Pro 5.1 (see below)  
+- **Home Server** - This can't really be found on my GitHub, but recently I've turned a 2012 Apple Mac Pro 5.1 (see below) into a home server. It runs Proxmox VE which runs 3 virtual machines, one running TrueNAS Scale and two running Arch Linux. The two Arch VMs run Jellyfin and the other runs Docker containers, one of which is running Cloudflare and tunnels Jellyfin and other services out of the local network to the internet.
 
 #### My Home Server
 

@@ -1,5 +1,5 @@
 ## Greetings
-My name is Spencer Gannon and I am a B.S. Computer Science major with a complementary Mathematics major.
+My name is Spencer Gannon and I am a Bachelor of Science Computer Science and Complementary Mathematics major.
 
 ## Cool Projects I've Done 
 - **Quantum Dot Cellular Automata Simulator** - Currently this is private, but working with a physics major and the Dean of Engineering we created a quantum dot cellular automata simulator that allows us to simulate sizeable quantum circuits. It currently runs in polynomial time complexity which is better than the current industry solution that runs in exponential time complexity.
